@@ -1,0 +1,17 @@
+/* Zentrieren */
+
+h1 {
+    text-align: center;
+
+}
+
+
+.box {
+    background-color: yellow;
+    width: 400px;
+    padding: 50px;
+    border:5px dotted blue;
+    margin-top: 100px;
+    margin-left: auto;
+    margin-right: auto;
+}
